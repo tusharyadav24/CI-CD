@@ -1,0 +1,4 @@
+we are gonna be use the tool github actions for continuous integtration
+for continuous delivery we are going to use aws EC2
+CI CD pipeline :-
+EVENTS- development,build,test,release,deply,production
